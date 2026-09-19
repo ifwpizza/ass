@@ -1,0 +1,15 @@
+{
+  "name": "assignment11-teacher-student-registration",
+  "version": "1.0.0",
+  "description": "Teacher and Student registration using Express.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.4"
+  }
+}
